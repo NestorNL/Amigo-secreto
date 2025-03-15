@@ -34,4 +34,19 @@ Accede a la aplicación mediante el siguiente link:
 #### Luego de presionar el botón "Sorter amigo"
 ![image](https://github.com/user-attachments/assets/e28199df-e2a6-448f-aa04-2664077a5ea2)
 
+## 	:cd: Instalación y ejecución:
+
+1. Clona este repositorio en tu máquina local:
+
+   ```bash
+   git clone https://github.com/EGZ1404/amigo-secreto
+   cd amigo-secreto
+
+2. Abre el archivo index.html en tu navegador.
+
+## :copyright: Autores
+
+- **[Néstor NL](https://github.com/NestorNL)** - Implementación de la lógica en JavaScript.  
+- **Alura LATAM - G8 ONE** - Provisión del diseño base en HTML y CSS.  
+Proyecto desarrollado en el contexto del curso G8 ONE - Alura LATAM.
 
