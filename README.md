@@ -1,4 +1,4 @@
-## Juego del amigo secreto:🎁
+## Juego del amigo secreto :bust_in_silhouette::question:
 
 En este desafío, se desarrolló una aplicación que permite a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "**amigo secreto**".
 
@@ -13,12 +13,25 @@ El usuario deberá agregar nombres mediante un campo de texto y un botón "Añad
 
 - **Sorteo aleatorio:** Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
 
-## :hammer: Tecnologías utilizadas:
+## :computer: Tecnologías utilizadas: 
 
-- HMTL5
+- HTML5
 - CSS3
 - JavaScript
 
-## :hammer: Acceso al proyecto:
+## :octocat: Acceso al proyecto:
 Accede a la aplicación mediante el siguiente link:
 [Acceso a la página del juego Amigo Secreto](http://https://nestornl.github.io/Amigo-secreto/ "Acceso a la página del juego Amigo Secreto")
+
+## :camera: Capturas de pantalla:
+
+#### Pantalla principal
+![image](https://github.com/user-attachments/assets/e78d8148-9bcf-4fb8-8224-56fdc52ef65e)
+
+#### Luego de añadir una lista de nombres
+![image](https://github.com/user-attachments/assets/47131dce-c71c-4976-b85b-3c4cfb20c851)
+
+#### Luego de presionar el botón "Sorter amigo"
+![image](https://github.com/user-attachments/assets/e28199df-e2a6-448f-aa04-2664077a5ea2)
+
+
