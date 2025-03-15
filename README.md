@@ -39,7 +39,7 @@ Accede a la aplicación mediante el siguiente link:
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/EGZ1404/amigo-secreto
+   git clone https://github.com/NestorNL/Amigo-secreto.git
    cd amigo-secreto
 
 2. Abre el archivo index.html en tu navegador.
